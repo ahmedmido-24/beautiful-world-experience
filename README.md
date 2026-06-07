@@ -25,7 +25,7 @@ An immersive, cinematic web experience that utilizes CSS 3D transforms and vanil
 
 1. Clone the repository:
    ```bash
-   git clone <https://github.com/YOUR_USERNAME/3d-scroll-site.git>
+   git clone [<https://github.com/YOUR_USERNAME/3d-scroll-site.git>](https://github.com/ahmedmido-24/beautiful-world-experience.git)
    ```
 2. Open `index.html` in any modern web browser.
 
